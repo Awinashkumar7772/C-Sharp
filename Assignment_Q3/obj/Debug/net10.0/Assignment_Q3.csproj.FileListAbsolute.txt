@@ -1,0 +1,14 @@
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\bin\Debug\net10.0\Assignment_Q3.exe
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\bin\Debug\net10.0\Assignment_Q3.deps.json
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\bin\Debug\net10.0\Assignment_Q3.runtimeconfig.json
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\bin\Debug\net10.0\Assignment_Q3.dll
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\bin\Debug\net10.0\Assignment_Q3.pdb
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\Assignment_Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\Assignment_Q3.AssemblyInfoInputs.cache
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\Assignment_Q3.AssemblyInfo.cs
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\Assignment_Q3.csproj.CoreCompileInputs.cache
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\Assignment_Q3.dll
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\refint\Assignment_Q3.dll
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\Assignment_Q3.pdb
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\Assignment_Q3.genruntimeconfig.cache
+C:\Users\kawin\OneDrive\Documents\Desktop\Csharp\Assignment_Q3\Assignment_Q3\obj\Debug\net10.0\ref\Assignment_Q3.dll
